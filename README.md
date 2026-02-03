@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SHS0416-Sistema-de-Gestao-Ambiental">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:57.098227Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SHS0416-Sistema-de-Gestao-Ambiental?utm_source=SHS0416-Sistema-de-Gestao-Ambiental&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:07.778930Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
